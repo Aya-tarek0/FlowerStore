@@ -130,7 +130,7 @@ nav {
     color: #f6f1ee;
     margin-bottom: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        text-align: justify; /* Makes the text more aligned */
+        text-align: justify; 
 }
 
 .text-left p:last-child {
@@ -221,10 +221,10 @@ button:hover {
 .about-image img {
     width: 100%;
     height: 600px;
-    border-radius: 0; /* إزالة الدائرة */
+    border-radius: 0; 
     object-fit: cover;
     box-shadow: 9px 10px 15px rgba(0, 0, 0, 0.2);
-    margin: 0px; /* إزالة أي مارجن */
+    margin: 0px; 
 }
 
 
